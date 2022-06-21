@@ -1,2 +1,2 @@
-# stepProject1.github.io
-Project with my HTML, CSS, JS skills without frameworks, pre-processors and libraries  
+# stepProject1
+Project with my HTML, CSS, JS skills without frameworks, pre-processors, adaptive layout and libraries  
